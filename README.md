@@ -15,7 +15,9 @@ Welcome to the Next.js Blog App! This is a full-stack web application built usin
 ## Demo
 
 ![App Screenshot](/Demo/screencapture-localhost-3000-2023-08-31-12_14_42.png)
+
 ![App Screenshot](/Demo/screencapture-localhost-3000-login-2023-08-31-12_15_58.png)
+
 ![App Screenshot](/Demo/screencapture-localhost-3000-suzdalnitski-2023-08-31-12_16_33.png)
 
 
